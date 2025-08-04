@@ -1,6 +1,6 @@
 # Personal-Budget-Tracker
 
-# FUNCTIONS
+### FUNCTIONS
 
 1. add_expense()
 2. add_income()
@@ -11,16 +11,16 @@
 7. view_summary()
 8. view_transactions()
 
-# DATA
+### DATA
 
 1. filename = 'budget_data.csv'
 2. functions = {1: <function add_income>, 2: <function add_expense>, 3: <function view_transactions>, 4: <function view_summary>, 5: <function save_data>}
 3. transactions = []
 
-# FILE
+### FILE
 https://github.com/Github-Shashank/Personal-Budget-Tracker/blob/main/personal_budget_tracker.py
 
-# Example Output
+### Example Output
 ```
 No previous CSV data found. Starting fresh.
 
